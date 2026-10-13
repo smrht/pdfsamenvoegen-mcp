@@ -3,7 +3,7 @@
   "name": "io.github.smrht/pdfsamenvoegen",
   "title": "PDF Samenvoegen",
   "description": "Merge your own PDFs in a confirmed order and get one downloadable PDF.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://pdfsamenvoegen.nl/",
   "repository": {
     "url": "https://github.com/smrht/pdfsamenvoegen-mcp",
